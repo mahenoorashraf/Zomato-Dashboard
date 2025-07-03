@@ -77,3 +77,11 @@ zomato-metrics-dashboard/
 
 ## 📁 Output
 
+!<img width="611" alt="Image" src="https://github.com/user-attachments/assets/1f70be50-57b2-4c74-b72a-45af32326fb8" />
+
+!<img width="599" alt="Image" src="https://github.com/user-attachments/assets/6b8e087c-fca3-4316-9a9f-d9db155ea2b3" />
+
+!<img width="600" alt="Image" src="https://github.com/user-attachments/assets/8ff05be4-8666-4199-84b6-3caea693a798" />
+
+!<img width="596" alt="Image" src="https://github.com/user-attachments/assets/6da2fd1d-7e7b-4f95-bae4-be68311f3d51" />
+
